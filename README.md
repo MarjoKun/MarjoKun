@@ -2,7 +2,7 @@
 <h1>Unity C# Programmer</h1>
 
 <h2>About me:</h2>
-For almost 5.5 years I have been working for company which main focus were VR/AR applications for clients. I have been working on plenty of projects with different technologies and challenges: 
+For 5.5 years I have worked for company which main focus were VR/AR applications for clients. I have been working on plenty of projects with different technologies and challenges: 
 
 <br/><a href="http://www.root-motion.com/finalikdox/html/page16.html">VRIK</a>, 
 <br/><a href="https://assetstore.unity.com/packages/tools/physics/hurricane-vr-physics-interaction-toolkit-177300">Hurricane VR</a>, 
