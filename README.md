@@ -18,7 +18,7 @@ For 5.5 years I have worked for company which main focus were VR/AR applications
 
 <h2>Software Development Projects I have been working on:</h2>
 <br/><a href="https://github.com/MarjoKun/Fire-Flames/blob/main/README.md">Fire & Flames</a> - VR multiplayer training simulator for firefighters
-<br/><a href="https://transfrinc.com/">Transfr</a> - VR training simulators
+<br/><a href="https://github.com/MarjoKun/Transfr/blob/main/README.md">Transfr</a> - VR training simulators
 <br/><a href="https://www.senopi.com/">Senopi</a> - VR multiplayer application for watching 360 videos
 <br/><a href="https://www.senopi.com/">Augmented Routes</a> - AR application for tourists 
 <br/><a href="https://www.senopi.com/">University of Silesia in Cieszyn, AR Project</a> - AR application to bring paintings to life
