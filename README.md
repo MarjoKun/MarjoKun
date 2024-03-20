@@ -2,7 +2,7 @@
 <h1>Unity C# Programmer</h1>
 
 <h2>About me:</h2>
-For 5.5 years I have worked for company which main focus were VR/AR applications for clients. I have been working on plenty of projects with different technologies and challenges, every new project was different from previous one. Because of that I was able to learn a lot about programming, different technologies and SDK, approaches, contacts with clients, programming paterns and a lot more. My journey was long and full of adventures.
+For 5.5 years I have worked for company which main focus were VR/AR applications for clients. I have been working on plenty of projects with different technologies and challenges, every new project was different from previous one. Because of that I was able to learn a lot about programming, different technologies and SDK, approaches, contacts with clients, programming patterns, project management, documentations, diagrams and a lot more. My journey was long and full of adventures.
 
 <h2>SDK I have been working with:</h2>
 
