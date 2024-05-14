@@ -25,6 +25,9 @@ For 5.5 years I have worked for company which main focus were VR/AR applications
 <br/><a href="https://github.com/MarjoKun/Senopi/blob/main/README.md">Senopi</a> - VR multiplayer application for watching 360 videos,
 <br/><a href="https://github.com/MarjoKun/Augmented-Routes/blob/main/README.md">Augmented Routes</a> - AR application for tourists ,
 
+<h2>Demo project:</h2>
+https://github.com/MarjoKun/CodeShowcase
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
