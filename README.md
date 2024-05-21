@@ -10,6 +10,7 @@ For 5.5 years I have worked for company which main focus were VR/AR applications
 <br/><a href="https://assetstore.unity.com/packages/tools/physics/hurricane-vr-physics-interaction-toolkit-177300">Hurricane VR</a>
 <br/><a href="https://www.vrtk.io/">VRTK</a>
 <br/><a href="http://inter-illusion.com/tools/i2-localization/">I2 Localization</a>
+<br/><a href="https://odininspector.com/">Odin Inspector also Validator</a>
 <br/><a href="https://www.fmod.com/">FMOD</a>
 <br/><a href="https://www.photonengine.com/">Photon Engine</a>
 <br/><a href="https://assetstore.unity.com/packages/tools/network/forge-networking-remastered-38344">Forge Networking</a>
